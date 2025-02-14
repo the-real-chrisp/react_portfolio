@@ -54,3 +54,11 @@
     border-radius: 50px;
     border: 2px solid white;
 }
+
+.hero-connect:hover{
+    border: 2px solid white;
+}
+
+.hero-resume:hover{
+    border-color: rgb(32, 212, 32);
+}
