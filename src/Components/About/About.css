@@ -14,6 +14,11 @@
 }
 
 .about-profile-img{
-    width: 20%;
+    width: 400px;
+    border-radius: 50px;
+}
 
+.about-sections{
+    display: flex;
+    gap: 80px;
 }
