@@ -6,3 +6,50 @@
     gap: 80px;
     margin: 80px 170px;
 }
+
+.services-title h1{
+    padding: 0px 30px;
+    font-size: 80px;
+    font-weight: 600;
+}
+
+.services-container{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 40px;
+    margin-bottom: 80px;
+}
+
+.services-format{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 20px;
+    padding: 60px;
+    border-radius: 10px;
+    border: 2px solid white;
+    transition: 0.4s;
+    cursor: pointer;
+}
+
+.services-format h3{
+    font-size: 28px;
+    font-weight: 600;
+}
+
+.services-format h2{
+    font-size: 38px;
+    font-weight: 800;
+    background: linear-gradient(90deg, rgba(53,131,218,1) 31%, rgba(0,255,141,1) 100%);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.services-format p{
+    color: #d4d4d4;
+    font-size: 24px;
+    line-height: 40px;
+    max-width: 300px;
+}
+

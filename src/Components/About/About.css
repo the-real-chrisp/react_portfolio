@@ -84,6 +84,7 @@
     font-size: 60px;
     font-weight: 700;
     background: linear-gradient(90deg, rgba(53,131,218,1) 31%, rgba(0,255,141,1) 100%);
+    background-clip: text;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 }
