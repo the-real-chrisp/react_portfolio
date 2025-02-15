@@ -53,3 +53,10 @@
     max-width: 300px;
 }
 
+.services-format:hover{
+    border: 2px solid rgba(0,255,141,1);
+    background-image: linear-gradient(80deg, rgb(3, 170, 95) 31%, rgb(235, 245, 90) 100%);
+    transform: scale(1.05);
+    transition: 0.5s;
+}
+
