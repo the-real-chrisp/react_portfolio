@@ -49,3 +49,5 @@ const mywork_data = [
         work_img: project_img_8
     }
 ]
+
+export default mywork_data
