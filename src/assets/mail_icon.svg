@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 50 50">
-  <g fill="none" stroke="black" stroke-width="2">
+  <g fill="none" stroke="white" stroke-width="2">
     <path d="M5 12 L25 25 L45 12" /> <!-- Envelope top -->
     <path d="M5 12 L5 38 L45 38 L45 12" /> <!-- Envelope body -->
     <line x1="5" y1="38" x2="45" y2="38" /> <!-- Envelope bottom -->
