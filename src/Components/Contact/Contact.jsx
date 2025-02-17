@@ -5,7 +5,7 @@ import location_icon from '../../assets/location_icon.svg'
 
 const Contact = () => {
     return (
-        <div className='contact'>
+        <div id='contact' className='contact'>
             <div className="contact-title">
                 <h1>Contact Me</h1>
             </div>
