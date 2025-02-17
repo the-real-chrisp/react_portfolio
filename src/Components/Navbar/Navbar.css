@@ -5,10 +5,6 @@
     margin: 20px 170px;
 }
 
-.navbar #logo-img{
-    margin-left: -100px;
-}
-
 .nav-menu{
     display: flex;
     align-items: center;
