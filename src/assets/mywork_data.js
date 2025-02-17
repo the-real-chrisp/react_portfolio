@@ -25,12 +25,12 @@ const mywork_data = [
     },
     {
         work_no: 4,
-        work_name: 'Express and Node Note App',
+        work_name: 'Express.js and Node.js Note App',
         work_img: project_img_4
     },
     {
         work_no: 5,
-        work_name: 'Front-End Digital Clock',
+        work_name: 'Front-End Digital Clock Project',
         work_img: project_img_5
     },
     {
@@ -45,7 +45,7 @@ const mywork_data = [
     },
     {
         work_no: 8,
-        work_name: 'Back-End E-commerce',
+        work_name: 'Back-End E-commerce App',
         work_img: project_img_8
     }
 ]
