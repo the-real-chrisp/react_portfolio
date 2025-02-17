@@ -42,3 +42,8 @@
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 }
+
+.anchor-link{
+    text-decoration: none;
+    color: white;
+}
