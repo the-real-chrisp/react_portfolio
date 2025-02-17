@@ -5,6 +5,10 @@
     margin: 20px 170px;
 }
 
+.navbar #logo-img{
+    margin-left: -100px;
+}
+
 .nav-menu{
     display: flex;
     align-items: center;
@@ -14,6 +18,7 @@
 }
 
 .nav-connect{
+    display: flex;
     padding: 20px 40px;
     border-radius: 50px;
     background: linear-gradient(90deg, rgba(53,131,218,1) 31%, rgba(0,255,141,1) 100%);
@@ -52,6 +57,16 @@
     display: none;
 }
 
+.nav-mob-open{
+    display: none;
+}
+
+@media(max-width:1400px){
+    .nav-connect{
+        display: none;
+    }
+}
+
 @media(max-width:768px){
     .navbar{
         margin: 20px 50px;
@@ -77,7 +92,7 @@
         align-items: start;
         top: 0px;
         gap: 30px;
-        background-color: #1f0016;
+        background-color: grey;
         width: 350px;
         height: 100%;
         z-index: 2;
