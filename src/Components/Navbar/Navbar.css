@@ -102,3 +102,11 @@
         gap: 20px;
     }
 }
+
+/* @media(max-width:600px){
+    .navbar #logo-img{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+} */

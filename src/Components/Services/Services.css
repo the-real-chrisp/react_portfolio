@@ -89,3 +89,10 @@
     }
 }
 
+@media(max-width:600px){
+    .services-container{
+        grid-template-columns: 1fr;
+        gap: 30px;
+    }
+}
+
